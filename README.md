@@ -21,6 +21,8 @@ Atualmente sigo essa jornada com o desenvolvimento tanto em IOT tanto na área d
 - Curso de Canva completo.
 - 2 anos junto com Senai como estudante.
 - Estudante Sesi.
+- Certificado de soluções integradas com IOT.
+- certificado de fluencia em ingles.
 
 ## Projetos
 GitHub -> https://github.com/PedroSanchesGodoy/exercicios-lpa
