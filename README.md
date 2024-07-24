@@ -13,7 +13,7 @@ Atualmente sigo essa jornada com o desenvolvimento tanto em IOT tanto na área d
 
 ## Habilidades ⋆.ೃ࿔*:･
 
-Expert em Arduino, cabo de rede, máquina virtual, VSCode, PHP, GitHub, Inglês fluente, Canva profissional, Logica de programação, trabalho em equipe, básico em robótica, instalação Linux, Instalação Windows, CMD, bom em liderar uma equipe.
+*Expert em Arduino, cabo de rede, máquina virtual, VSCode, PHP, GitHub, Inglês fluente, Canva profissional, Logica de programação, trabalho em equipe, básico em robótica, instalação Linux, Instalação Windows, CMD, bom em liderar uma equipe.*
 
 ## Experiênciasׂׂ e formações ׂׂૢ 
 - Um ano trabalhando na hotmart na MRVirtus.
